@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.0.0.32" id="a81a9411-56e3-4890-9282-3d799d30b419" port="22" customName="webtech-local" nameFormat="CUSTOM" username="darin">
+        <option name="customName" value="webtech-local" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c638fd1d-6fbf-4730-b424-3af43759d2b1" name="Assignments" url="http://10.0.0.32:8081">
+        <fileTransfer rootFolder="/var/www/assignments" accessType="SFTP" host="10.0.0.32" port="22" sshConfigId="a81a9411-56e3-4890-9282-3d799d30b419" sshConfig="webtech-local">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
